@@ -1,1 +1,1 @@
-bitbucket:latest
+bitbucket:1.1.11
