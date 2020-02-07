@@ -1,5 +1,4 @@
 bitbucket:1.1.11
-openshift-sync:1.0.44
 handlebars:1.1.1
 google-oauth-plugin:1.0.0
 docker-workflow:1.21
